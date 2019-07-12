@@ -16,11 +16,11 @@
   display: none; 	
 }	
 
- div#wall div.parent #tag-5.slick {	
+ #wall div.parent #tag-5.slick {	
   display: none; 	
 }	
 
- body div#wall div.parent div:last-child div#tag-6 {	
+ body #wall div.parent div:last-child #tag-6 {	
   display: none; 	
 }	
 
